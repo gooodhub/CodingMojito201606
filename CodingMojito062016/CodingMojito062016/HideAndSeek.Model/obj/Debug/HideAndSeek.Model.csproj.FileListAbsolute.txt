@@ -1,0 +1,5 @@
+C:\Users\Seta\Source\Repos\CodingMojito062016\CodingMojito062016\HideAndSeek.Model\bin\Debug\HideAndSeek.Model.dll
+C:\Users\Seta\Source\Repos\CodingMojito062016\CodingMojito062016\HideAndSeek.Model\bin\Debug\HideAndSeek.Model.pdb
+C:\Users\Seta\Source\Repos\CodingMojito062016\CodingMojito062016\HideAndSeek.Model\obj\Debug\HideAndSeek.Model.dll
+C:\Users\Seta\Source\Repos\CodingMojito062016\CodingMojito062016\HideAndSeek.Model\obj\Debug\HideAndSeek.Model.pdb
+C:\Users\Seta\Source\Repos\CodingMojito062016\CodingMojito062016\HideAndSeek.Model\obj\Debug\HideAndSeek.Model.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Seta\Source\Repos\CodingMojito062016\CodingMojito.UnitTEsts\bin\Debug\CodingMojito.UnitTEsts.dll
+C:\Users\Seta\Source\Repos\CodingMojito062016\CodingMojito.UnitTEsts\bin\Debug\CodingMojito.UnitTEsts.pdb
+C:\Users\Seta\Source\Repos\CodingMojito062016\CodingMojito.UnitTEsts\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Seta\Source\Repos\CodingMojito062016\CodingMojito.UnitTEsts\obj\Debug\CodingMojito.UnitTEsts.csprojResolveAssemblyReference.cache
+C:\Users\Seta\Source\Repos\CodingMojito062016\CodingMojito.UnitTEsts\obj\Debug\CodingMojito.UnitTEsts.dll
+C:\Users\Seta\Source\Repos\CodingMojito062016\CodingMojito.UnitTEsts\obj\Debug\CodingMojito.UnitTEsts.pdb
+C:\Users\Seta\Source\Repos\CodingMojito062016\CodingMojito.UnitTEsts\bin\Debug\HideAndSeek.Model.dll
+C:\Users\Seta\Source\Repos\CodingMojito062016\CodingMojito.UnitTEsts\bin\Debug\HideAndSeek.Model.pdb

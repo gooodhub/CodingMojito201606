@@ -1,0 +1,5 @@
+C:\Users\Seta\Source\Repos\CodingMojito062016\CodingMojito062016\bin\Debug\CodingMojito062016.dll
+C:\Users\Seta\Source\Repos\CodingMojito062016\CodingMojito062016\bin\Debug\CodingMojito062016.pdb
+C:\Users\Seta\Source\Repos\CodingMojito062016\CodingMojito062016\obj\Debug\CodingMojito062016.csprojResolveAssemblyReference.cache
+C:\Users\Seta\Source\Repos\CodingMojito062016\CodingMojito062016\obj\Debug\CodingMojito062016.dll
+C:\Users\Seta\Source\Repos\CodingMojito062016\CodingMojito062016\obj\Debug\CodingMojito062016.pdb
